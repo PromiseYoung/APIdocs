@@ -9,6 +9,7 @@
     } catch (error1) {
       console.log('Intento 1 falló, intentando limpieza...');
 
+      // Imprimir los primeros 300 caracteres para diagnóstico
       try {
         // CASO 2: JSON con escapes dobles (como tu ejemplo)
         // Reemplazar \\\" por "
