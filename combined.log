@@ -1,0 +1,1277 @@
+﻿{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T15:44:41.250Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T15:44:51.394Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:44:51.398Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:44:51.401Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:44:51.403Z"}
+{"code":50000,"level":"error","lineNumber":83,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:44:51.614Z"}
+{"level":"info","message":"📭 No hay packlists pendientes","timestamp":"2025-12-02T15:44:51.620Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:44:51.622Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:45:00.056Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:45:00.058Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:45:00.060Z"}
+{"code":50000,"level":"error","lineNumber":83,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:45:00.149Z"}
+{"level":"info","message":"📭 No hay packlists pendientes","timestamp":"2025-12-02T15:45:00.158Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:45:00.160Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T15:48:19.095Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T15:48:29.242Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:48:29.246Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:48:29.249Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:48:29.251Z"}
+{"code":50000,"level":"error","lineNumber":83,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:48:29.479Z"}
+{"level":"info","message":"📭 No hay packlists pendientes","timestamp":"2025-12-02T15:48:29.485Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:48:29.487Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:50:00.061Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:50:00.063Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:50:00.065Z"}
+{"code":50000,"level":"error","lineNumber":83,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:50:00.307Z"}
+{"level":"info","message":"📭 No hay packlists pendientes","timestamp":"2025-12-02T15:50:00.313Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:50:00.316Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T15:52:39.172Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T15:52:49.312Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:52:49.316Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:52:49.318Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:52:49.321Z"}
+{"code":50000,"level":"error","lineNumber":83,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:52:49.521Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T15:52:49.528Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:52:49.530Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:55:00.077Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:55:00.079Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:55:00.081Z"}
+{"code":50000,"level":"error","lineNumber":83,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:55:00.260Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T15:55:00.266Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:55:00.267Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T15:56:36.868Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T15:56:47.000Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T15:56:47.003Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T15:56:47.005Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T15:56:47.008Z"}
+{"code":50000,"level":"error","lineNumber":84,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T15:56:47.272Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T15:56:47.278Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T15:56:47.280Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:00:00.062Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:00:00.063Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:00:00.065Z"}
+{"code":50000,"level":"error","lineNumber":84,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T16:00:00.207Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T16:00:00.212Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:00:00.214Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:05:00.040Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:05:00.043Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:05:00.045Z"}
+{"code":50000,"level":"error","lineNumber":84,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T16:05:00.202Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T16:05:00.208Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:05:00.209Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:10:00.044Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:10:00.046Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:10:00.048Z"}
+{"code":50000,"level":"error","lineNumber":84,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T16:10:00.219Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T16:10:00.224Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:10:00.226Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:15:00.046Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:15:00.047Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:15:00.049Z"}
+{"code":50000,"level":"error","lineNumber":84,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","procName":"dbo.SPWC_LNV_FNC07","serverName":"LOADSERV8\\A2","severity":16,"sqlstate":"42000","stack":"Error: [Microsoft][ODBC SQL Server Driver][SQL Server][WC-LNV-F07] (50000): [W-LNV-F08] (213): El nombre de columna o los valores especificados no corresponden a la definici�n de la tabla.","timestamp":"2025-12-02T16:15:00.228Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T16:15:00.233Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:15:00.235Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:20:00.040Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:20:00.042Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:20:00.044Z"}
+{"code":0,"level":"error","lineNumber":0,"message":"Error en método alternativo: [Microsoft][ODBC SQL Server Driver]La instrucci�n asociada no est� preparada","procName":"","serverName":"","severity":0,"sqlstate":"HY007","stack":"Error: [Microsoft][ODBC SQL Server Driver]La instrucci�n asociada no est� preparada","timestamp":"2025-12-02T16:20:00.477Z"}
+{"level":"info","message":"No hay packlists pendientes","timestamp":"2025-12-02T16:20:00.481Z"}
+{"level":"info","message":"Sin trabajo - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:20:00.482Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:25:00.045Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:25:00.047Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:25:00.048Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T16:25:00.438Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T16:25:00.439Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:25:00.441Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:25:00.444Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T16:25:00.446Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T16:25:00.448Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T16:25:00.460Z"}
+{"level":"info","message":" PDF temporal guardado → PACKLIST--undefined-1764692700743.pdf","timestamp":"2025-12-02T16:25:00.745Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T16:25:00.747Z"}
+{"level":"info","message":" Enviando a impresora: B4005029","timestamp":"2025-12-02T16:25:03.201Z"}
+{"level":"info","message":"✅ Impresión exitosa con pdf-to-printer (19313ms)","timestamp":"2025-12-02T16:25:20.063Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764692720065","timestamp":"2025-12-02T16:25:20.065Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T16:25:20.067Z"}
+{"level":"info","message":" El Packlist undefined procesado exitosamente","timestamp":"2025-12-02T16:25:20.068Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T16:25:20.070Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:25:20.072Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T16:28:35.450Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T16:28:45.600Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:28:45.603Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:28:45.606Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:28:45.608Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T16:28:45.958Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T16:28:45.961Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:28:45.963Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:28:45.965Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T16:28:45.967Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T16:28:45.969Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T16:28:45.980Z"}
+{"level":"info","message":" PDF temporal guardado → PACKLIST--undefined-1764692926126.pdf","timestamp":"2025-12-02T16:28:46.128Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T16:28:46.130Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T16:28:49.092Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6948ms","timestamp":"2025-12-02T16:28:53.081Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764692933082","timestamp":"2025-12-02T16:28:53.082Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T16:28:53.084Z"}
+{"level":"info","message":" El Packlist undefined procesado exitosamente","timestamp":"2025-12-02T16:28:53.086Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T16:28:53.087Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:28:53.088Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:30:00.067Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:30:00.069Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:30:00.071Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T16:30:00.320Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T16:30:00.321Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:30:00.323Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:30:00.324Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T16:30:00.325Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:35:00.041Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:35:00.043Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:35:00.045Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T16:35:00.335Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T16:35:00.337Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:35:00.338Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:35:00.338Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T16:35:00.339Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:40:00.035Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:40:00.037Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:40:00.039Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T16:40:00.424Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T16:40:00.426Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:40:00.428Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:40:00.429Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T16:40:00.430Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T16:50:26.326Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T16:50:36.430Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T16:50:36.434Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T16:50:36.436Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T16:50:36.439Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T16:50:36.797Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T16:50:36.799Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:50:36.801Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T16:50:36.803Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T16:50:36.805Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T16:50:36.807Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T16:50:36.819Z"}
+{"level":"info","message":" PDF temporal guardado → PACKLIST--undefined-1764694236973.pdf","timestamp":"2025-12-02T16:50:36.975Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T16:50:36.979Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T16:50:40.136Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7294ms","timestamp":"2025-12-02T16:50:44.275Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764694244277","timestamp":"2025-12-02T16:50:44.277Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T16:50:44.279Z"}
+{"level":"info","message":" El Packlist undefined procesado exitosamente","timestamp":"2025-12-02T16:50:44.281Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T16:50:44.282Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T16:50:44.284Z"}
+{"level":"error","message":"Comando falló: wmic printer where \"Name like '%Microsoft Print to PDF%'\" get Name,PortName /value","timestamp":"2025-12-02T17:09:14.802Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:09:14.817Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:09:24.945Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:09:24.949Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:09:24.952Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:09:24.955Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:09:25.323Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:09:25.326Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:09:25.328Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T17:09:25.329Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T17:09:25.331Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:09:25.333Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:09:25.344Z"}
+{"level":"info","message":" PDF temporal guardado → PACKLIST--undefined-1764695365515.pdf","timestamp":"2025-12-02T17:09:25.517Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:09:25.519Z"}
+{"level":"error","message":"Comando falló: wmic printer where \"Name like '%B4005029%'\" get Name,PortName /value","timestamp":"2025-12-02T17:09:30.543Z"}
+{"level":"error","message":"❌ Error en impresión (5078ms): Impresora no disponible: B4005029","stack":"Error: Impresora no disponible: B4005029\n    at PrinterService.printPDF (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\printerService.js:186:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:332:17)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:169:7)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:86:26)","timestamp":"2025-12-02T17:09:30.600Z"}
+{"level":"error","message":"Error procesando packlist undefined:","timestamp":"2025-12-02T17:09:30.606Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:09:30.608Z"}
+{"level":"info","message":"Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:09:57.604Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:10:00.046Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:10:00.049Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:10:00.051Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:10:00.371Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:10:00.374Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:10:00.376Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T17:10:00.378Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T17:10:00.380Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:10:00.382Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:10:00.393Z"}
+{"level":"info","message":" PDF temporal guardado → PACKLIST--undefined-1764695400515.pdf","timestamp":"2025-12-02T17:10:00.516Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:10:00.519Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:10:02.729Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6248ms","timestamp":"2025-12-02T17:10:06.768Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764695406770","timestamp":"2025-12-02T17:10:06.770Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:10:06.772Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:10:06.774Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:10:06.776Z"}
+{"level":"info","message":" El Packlist undefined procesado exitosamente","timestamp":"2025-12-02T17:10:06.777Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:10:06.779Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:10:06.780Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:10:07.743Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:10:07.745Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:10:07.747Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:10:07.748Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:10:08.029Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:10:08.031Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:10:08.033Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T17:10:08.034Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:10:08.035Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:12:30.783Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:12:40.880Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:12:40.883Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:12:40.886Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:12:40.888Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:12:41.210Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:12:41.213Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:12:41.215Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:12:41.217Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T17:12:41.218Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:12:41.221Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:12:41.232Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764695561375.pdf","timestamp":"2025-12-02T17:12:41.377Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:12:41.381Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:12:44.069Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6314ms","timestamp":"2025-12-02T17:12:47.698Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764695567701","timestamp":"2025-12-02T17:12:47.701Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:12:47.703Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:12:47.705Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:12:47.707Z"}
+{"level":"info","message":" El Packlist undefined procesado exitosamente","timestamp":"2025-12-02T17:12:47.709Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:12:47.711Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:12:47.713Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:14:07.971Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:14:18.118Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:14:18.122Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:14:18.124Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:14:18.127Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:14:18.454Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:14:18.457Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:14:18.459Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:14:18.461Z"}
+{"level":"info","message":"[1/1] Procesando packlist undefined","timestamp":"2025-12-02T17:14:18.463Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:14:18.465Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:14:18.476Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764695658642.pdf","timestamp":"2025-12-02T17:14:18.644Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:14:18.647Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:14:21.281Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6015ms","timestamp":"2025-12-02T17:14:24.666Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764695664667","timestamp":"2025-12-02T17:14:24.668Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:14:24.670Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:14:24.672Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:14:24.674Z"}
+{"level":"info","message":" El Packlist undefined procesado exitosamente","timestamp":"2025-12-02T17:14:24.676Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:14:24.678Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:14:24.680Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:15:00.054Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:15:00.056Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:15:00.058Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:15:00.276Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:15:00.277Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:15:00.279Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:15:00.280Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:15:00.281Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:20:00.044Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:20:00.045Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:20:00.047Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:20:00.352Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:20:00.353Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:20:00.355Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:20:00.356Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:20:00.357Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:22:21.848Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:22:31.911Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:22:31.915Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:22:31.918Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:22:31.921Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:22:32.246Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:22:32.248Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:22:32.250Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:22:32.252Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T17:22:32.254Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:22:32.256Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:22:32.267Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764696152399.pdf","timestamp":"2025-12-02T17:22:32.401Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:22:32.403Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:22:35.306Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7082ms","timestamp":"2025-12-02T17:22:39.487Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764696159489","timestamp":"2025-12-02T17:22:39.489Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:22:39.491Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:22:39.492Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:22:39.493Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T17:22:39.495Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:22:39.496Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:22:39.497Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:23:12.169Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:23:22.299Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:23:22.303Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:23:22.305Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:23:22.308Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:23:22.630Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:23:22.632Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:23:22.635Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:23:22.636Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T17:23:22.638Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:23:22.640Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:23:22.651Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764696202810.pdf","timestamp":"2025-12-02T17:23:22.811Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:23:22.814Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:23:25.473Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:23:30.799Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:23:40.901Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:23:40.905Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:23:40.907Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:23:40.910Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:23:41.226Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:23:41.229Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:23:41.231Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:23:41.233Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T17:23:41.235Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:23:41.237Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:23:41.247Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764696221391.pdf","timestamp":"2025-12-02T17:23:41.393Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:23:41.397Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:23:43.420Z"}
+{"level":"info","message":"✅ Impreso correctamente en 5664ms","timestamp":"2025-12-02T17:23:47.065Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764696227066","timestamp":"2025-12-02T17:23:47.066Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:23:47.068Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:23:47.070Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:23:47.073Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T17:23:47.074Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:23:47.076Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:23:47.078Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:25:00.069Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:25:00.071Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:25:00.072Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:25:00.349Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:25:00.351Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:25:00.353Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:25:00.354Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:25:00.356Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:30:00.065Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:30:00.065Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:30:00.066Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:30:00.420Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:30:00.421Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:30:00.421Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:30:00.422Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:30:00.422Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:35:00.039Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:35:00.040Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:35:00.040Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:35:00.358Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:35:00.359Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:35:00.360Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:35:00.360Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:35:00.361Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:42:43.179Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:42:53.330Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:42:53.333Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:42:53.336Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:42:53.340Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:42:53.694Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:42:53.696Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:42:53.698Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:42:53.700Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T17:42:53.702Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:42:53.704Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:42:53.715Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764697373859.pdf","timestamp":"2025-12-02T17:42:53.861Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:42:53.865Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:42:57.106Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7571ms","timestamp":"2025-12-02T17:43:01.438Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764697381440","timestamp":"2025-12-02T17:43:01.441Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:43:01.443Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:43:01.445Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:43:01.447Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T17:43:01.449Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:43:01.451Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:43:01.453Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:45:00.047Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:45:00.049Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:45:00.050Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:45:00.363Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:45:00.365Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:45:00.366Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:45:00.367Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:45:00.369Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:48:20.536Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:48:30.678Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:48:30.682Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:48:30.684Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:48:30.687Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:48:31.006Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:48:31.008Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:48:31.010Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:48:31.011Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T17:48:31.013Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:48:31.014Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:48:31.023Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764697711138.pdf","timestamp":"2025-12-02T17:48:31.140Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:48:31.143Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:48:33.141Z"}
+{"level":"info","message":"✅ Impreso correctamente en 4875ms","timestamp":"2025-12-02T17:48:36.020Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764697716022","timestamp":"2025-12-02T17:48:36.022Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:48:36.023Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:48:36.024Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:48:36.025Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T17:48:36.026Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:48:36.026Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:48:36.027Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:50:00.058Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:50:00.060Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:50:00.061Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:50:00.369Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:50:00.371Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:50:00.372Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:50:00.374Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:50:00.375Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T17:54:34.255Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T17:54:44.386Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:54:44.390Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:54:44.392Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:54:44.395Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:54:44.745Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:54:44.747Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:54:44.749Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:54:44.751Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T17:54:44.753Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T17:54:44.755Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T17:54:44.766Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764698084909.pdf","timestamp":"2025-12-02T17:54:44.911Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T17:54:44.913Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T17:54:47.806Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6879ms","timestamp":"2025-12-02T17:54:51.794Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764698091796","timestamp":"2025-12-02T17:54:51.796Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T17:54:51.798Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T17:54:51.800Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T17:54:51.802Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T17:54:51.804Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T17:54:51.806Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T17:54:51.808Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T17:55:00.063Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T17:55:00.064Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T17:55:00.066Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T17:55:00.288Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T17:55:00.290Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:55:00.292Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T17:55:00.293Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T17:55:00.294Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T18:38:39.300Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T18:38:49.457Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T18:38:49.461Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T18:38:49.463Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T18:38:49.466Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T18:38:49.794Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T18:38:49.797Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:38:49.799Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:38:49.801Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T18:38:49.803Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T18:38:49.805Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T18:38:49.816Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764700729963.pdf","timestamp":"2025-12-02T18:38:49.965Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T18:38:49.968Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T18:38:52.764Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7277ms","timestamp":"2025-12-02T18:38:57.247Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764700737249","timestamp":"2025-12-02T18:38:57.250Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T18:38:57.252Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T18:38:57.254Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T18:38:57.256Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T18:38:57.260Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T18:38:57.262Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T18:38:57.263Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T18:40:00.068Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T18:40:00.071Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T18:40:00.073Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T18:40:00.299Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T18:40:00.301Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:40:00.302Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:40:00.304Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T18:40:00.305Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T18:40:58.378Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T18:41:08.499Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T18:41:08.503Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T18:41:08.505Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T18:41:08.508Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T18:41:08.831Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T18:41:08.833Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:41:08.835Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:41:08.837Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T18:41:08.839Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T18:41:08.841Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T18:41:08.852Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764700869013.pdf","timestamp":"2025-12-02T18:41:09.015Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T18:41:09.017Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T18:41:11.249Z"}
+{"level":"info","message":"✅ Impreso correctamente en 5636ms","timestamp":"2025-12-02T18:41:14.655Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764700874657","timestamp":"2025-12-02T18:41:14.657Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T18:41:14.660Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T18:41:14.662Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T18:41:14.664Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T18:41:14.666Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T18:41:14.668Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T18:41:14.669Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T18:45:00.061Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T18:45:00.063Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T18:45:00.064Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T18:45:00.407Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T18:45:00.409Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:45:00.411Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:45:00.412Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T18:45:00.413Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T18:50:00.043Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T18:50:00.045Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T18:50:00.046Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T18:50:00.353Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T18:50:00.355Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:50:00.356Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T18:50:00.357Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T18:50:00.358Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T19:31:11.197Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T19:31:21.341Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T19:31:21.345Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T19:31:21.348Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T19:31:21.350Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T19:31:21.689Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T19:31:21.692Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:31:21.694Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:31:21.696Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T19:31:21.698Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T19:31:21.700Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T19:31:21.711Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764703881869.pdf","timestamp":"2025-12-02T19:31:21.871Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T19:31:21.874Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T19:31:24.911Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7572ms","timestamp":"2025-12-02T19:31:29.449Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764703889450","timestamp":"2025-12-02T19:31:29.450Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T19:31:29.452Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T19:31:29.454Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T19:31:29.455Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T19:31:29.456Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T19:31:29.458Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T19:31:29.459Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T19:35:00.070Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T19:35:00.071Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T19:35:00.073Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T19:35:00.408Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T19:35:00.410Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:35:00.411Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:35:00.412Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T19:35:00.413Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T19:40:00.044Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T19:40:00.046Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T19:40:00.047Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T19:40:00.337Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T19:40:00.339Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:40:00.341Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:40:00.342Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T19:40:00.343Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T19:45:00.035Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T19:45:00.036Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T19:45:00.038Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T19:45:00.325Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T19:45:00.327Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:45:00.328Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:45:00.329Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T19:45:00.331Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T19:50:00.041Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T19:50:00.043Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T19:50:00.044Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T19:50:00.318Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T19:50:00.320Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:50:00.321Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:50:00.322Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T19:50:00.323Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T19:55:02.640Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T19:55:12.751Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T19:55:12.755Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T19:55:12.757Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T19:55:12.760Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T19:55:13.126Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T19:55:13.128Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:55:13.131Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T19:55:13.133Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T19:55:13.134Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T19:55:13.136Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T19:55:13.193Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST--undefined-1764705313344.pdf","timestamp":"2025-12-02T19:55:13.347Z"}
+{"level":"info","message":"Se esta Enviando la impresión  (undefined)…","timestamp":"2025-12-02T19:55:13.350Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T19:55:16.121Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6505ms","timestamp":"2025-12-02T19:55:19.857Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764705319859","timestamp":"2025-12-02T19:55:19.859Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T19:55:19.861Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T19:55:19.864Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T19:55:19.866Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T19:55:19.868Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T19:55:19.870Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T19:55:19.871Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:00:00.066Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:00:00.067Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:00:00.069Z"}
+{"level":"info","message":"Ejecución de respaldo → 2/12/2025, 2:00:00 p.m.","timestamp":"2025-12-02T20:00:00.073Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:00:00.357Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:00:00.359Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:00:00.361Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:00:00.363Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:00:00.364Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:01:06.589Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:01:16.702Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:01:16.707Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:01:16.709Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:01:16.712Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:01:17.039Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:01:17.041Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:01:17.043Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:01:17.045Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:01:17.047Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T20:01:17.049Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T20:01:17.108Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-undefined-1764705677396.pdf","timestamp":"2025-12-02T20:01:17.399Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (undefined)…","timestamp":"2025-12-02T20:01:17.402Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:01:20.475Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7194ms","timestamp":"2025-12-02T20:01:24.598Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764705684599","timestamp":"2025-12-02T20:01:24.599Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T20:01:24.600Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T20:01:24.602Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T20:01:24.603Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:01:24.604Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:01:24.605Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:01:24.606Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:03:19.115Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:03:29.266Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:03:29.270Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:03:29.272Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:03:29.275Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:03:29.690Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:03:29.692Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:03:29.694Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:03:29.695Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:03:29.697Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T20:03:29.698Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T20:03:29.755Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-undefined-1764705809911.pdf","timestamp":"2025-12-02T20:03:29.914Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (undefined)…","timestamp":"2025-12-02T20:03:29.916Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:03:32.953Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7156ms","timestamp":"2025-12-02T20:03:37.074Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764705817076","timestamp":"2025-12-02T20:03:37.076Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T20:03:37.077Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T20:03:37.079Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T20:03:37.081Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:03:37.083Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:03:37.084Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:03:37.086Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:05:00.051Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:05:00.056Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:05:00.058Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:05:00.336Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:05:00.338Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:05:00.339Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:05:00.341Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:05:00.342Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:10:00.039Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:10:00.041Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:10:00.042Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:10:00.335Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:10:00.337Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:10:00.338Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:10:00.340Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:10:00.341Z"}
+{"level":"error","message":"Comando falló: wmic printer where \"Name like '%Microsoft Print to PDF%'\" get Name,PortName /value","timestamp":"2025-12-02T20:14:34.850Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:14:34.860Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:14:44.952Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:14:44.956Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:14:44.959Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:14:44.962Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:14:45.309Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:14:45.312Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:14:45.314Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:14:45.316Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:14:45.317Z"}
+{"level":"info","message":"Procesando packlist undefined","timestamp":"2025-12-02T20:14:45.319Z"}
+{"level":"info","message":"Generando documento PDF para undefined...","timestamp":"2025-12-02T20:14:45.377Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-undefined-1764706485555.pdf","timestamp":"2025-12-02T20:14:45.558Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (undefined)…","timestamp":"2025-12-02T20:14:45.562Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:14:48.421Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6859ms","timestamp":"2025-12-02T20:14:52.423Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764706492426","timestamp":"2025-12-02T20:14:52.426Z"}
+{"level":"info","message":"🖨️ Marcando packlist undefined como impreso en BD...","timestamp":"2025-12-02T20:14:52.428Z"}
+{"level":"warn","message":"⚠️ ID inválido para marcar como impreso: undefined","timestamp":"2025-12-02T20:14:52.431Z"}
+{"level":"info","message":"Packlist undefined procesado exitosamente.","timestamp":"2025-12-02T20:14:52.432Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:14:52.434Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:14:52.436Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:14:52.437Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:15:00.064Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:15:00.066Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:15:00.068Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:15:00.294Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:15:00.295Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:15:00.297Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:15:00.298Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:15:00.299Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:18:53.203Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:19:03.317Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:19:03.321Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:19:03.323Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:19:03.326Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:19:03.668Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:19:03.671Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:19:03.673Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:19:03.675Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:19:03.677Z"}
+{"level":"info","message":"Procesando packlist unknown-1764706743678","timestamp":"2025-12-02T20:19:03.678Z"}
+{"level":"info","message":"Generando documento PDF para unknown-1764706743678...","timestamp":"2025-12-02T20:19:03.738Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-1764706743903.pdf","timestamp":"2025-12-02T20:19:03.905Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764706743678)…","timestamp":"2025-12-02T20:19:03.908Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:19:06.998Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6919ms","timestamp":"2025-12-02T20:19:10.829Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764706750831","timestamp":"2025-12-02T20:19:10.832Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764706743678 como impreso en BD...","timestamp":"2025-12-02T20:19:10.834Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764706743678 como impreso:","timestamp":"2025-12-02T20:19:10.842Z"}
+{"level":"info","message":"Packlist unknown-1764706743678 procesado exitosamente.","timestamp":"2025-12-02T20:19:10.845Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:19:10.847Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:19:10.849Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:19:10.851Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:20:00.066Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:20:00.068Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:20:00.069Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:20:00.344Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:20:00.345Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:20:00.347Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:20:00.348Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:20:00.350Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:25:00.042Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:25:00.044Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:25:00.046Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:25:00.358Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:25:00.360Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:25:00.362Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:25:00.363Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:25:00.364Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:26:49.455Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:26:59.592Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:26:59.596Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:26:59.598Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:26:59.601Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:26:59.949Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:26:59.952Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:26:59.954Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:26:59.956Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:26:59.957Z"}
+{"level":"info","message":"🔄 [unknown-1764707219960] Iniciando procesamiento de packlist","timestamp":"2025-12-02T20:26:59.960Z"}
+{"level":"warn","message":"⚠️ [unknown-1764707219960] Packlist sin items en la lista","timestamp":"2025-12-02T20:27:00.018Z"}
+{"level":"info","message":"📄 [unknown-1764707219960] Generando documento PDF...","timestamp":"2025-12-02T20:27:00.020Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764707219960-1764707220180.pdf","timestamp":"2025-12-02T20:27:00.181Z"}
+{"level":"info","message":"🖨️ [unknown-1764707219960] Enviando a impresión...","timestamp":"2025-12-02T20:27:00.183Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764707219960)…","timestamp":"2025-12-02T20:27:00.185Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:27:03.300Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7480ms","timestamp":"2025-12-02T20:27:07.668Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764707227671","timestamp":"2025-12-02T20:27:07.671Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764707219960 como impreso en BD...","timestamp":"2025-12-02T20:27:07.673Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764707219960 como impreso:","timestamp":"2025-12-02T20:27:07.679Z"}
+{"level":"info","message":"🎉 [unknown-1764707219960] Procesado exitosamente","timestamp":"2025-12-02T20:27:07.682Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:27:07.683Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:27:07.685Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:27:07.686Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:29:00.532Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:29:10.672Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:29:10.676Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:29:10.678Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:29:10.681Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:29:11.017Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:29:11.019Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:29:11.021Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:29:11.023Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:29:11.025Z"}
+{"level":"info","message":"🔄 [unknown-1764707351027] Iniciando procesamiento de packlist","timestamp":"2025-12-02T20:29:11.027Z"}
+{"level":"warn","message":"⚠️ [unknown-1764707351027] Packlist sin items en la lista","timestamp":"2025-12-02T20:29:11.087Z"}
+{"level":"info","message":"📄 [unknown-1764707351027] Generando documento PDF...","timestamp":"2025-12-02T20:29:11.089Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764707351027-1764707351302.pdf","timestamp":"2025-12-02T20:29:11.304Z"}
+{"level":"info","message":"🖨️ [unknown-1764707351027] Enviando a impresión...","timestamp":"2025-12-02T20:29:11.306Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764707351027)…","timestamp":"2025-12-02T20:29:11.307Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:29:14.235Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7100ms","timestamp":"2025-12-02T20:29:18.411Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764707358413","timestamp":"2025-12-02T20:29:18.413Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764707351027 como impreso en BD...","timestamp":"2025-12-02T20:29:18.415Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764707351027 como impreso:","timestamp":"2025-12-02T20:29:18.421Z"}
+{"level":"info","message":"🎉 [unknown-1764707351027] Procesado exitosamente","timestamp":"2025-12-02T20:29:18.423Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:29:18.425Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:29:18.426Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:29:18.427Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:30:00.053Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:30:00.055Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:30:00.058Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:30:00.324Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:30:00.326Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:30:00.328Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:30:00.329Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:30:00.330Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T20:30:42.641Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T20:30:52.768Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:30:52.770Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:30:52.772Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:30:52.773Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:30:53.092Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:30:53.094Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:30:53.097Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:30:53.099Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T20:30:53.100Z"}
+{"level":"info","message":"🔄 [unknown-1764707453102] Iniciando procesamiento de packlist","timestamp":"2025-12-02T20:30:53.103Z"}
+{"level":"warn","message":"⚠️ [unknown-1764707453102] Packlist sin items en la lista","timestamp":"2025-12-02T20:30:53.155Z"}
+{"level":"info","message":"📄 [unknown-1764707453102] Generando documento PDF...","timestamp":"2025-12-02T20:30:53.156Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764707453102-1764707453399.pdf","timestamp":"2025-12-02T20:30:53.401Z"}
+{"level":"info","message":"🖨️ [unknown-1764707453102] Enviando a impresión...","timestamp":"2025-12-02T20:30:53.403Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764707453102)…","timestamp":"2025-12-02T20:30:53.404Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T20:30:55.584Z"}
+{"level":"info","message":"✅ Impreso correctamente en 5329ms","timestamp":"2025-12-02T20:30:58.736Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764707458739","timestamp":"2025-12-02T20:30:58.739Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764707453102 como impreso en BD...","timestamp":"2025-12-02T20:30:58.741Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764707453102 como impreso:","timestamp":"2025-12-02T20:30:58.806Z"}
+{"level":"info","message":"🎉 [unknown-1764707453102] Procesado exitosamente","timestamp":"2025-12-02T20:30:58.809Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T20:30:58.810Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T20:30:58.812Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T20:30:58.814Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:35:00.065Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:35:00.070Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:35:00.072Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:35:00.386Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:35:00.388Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:35:00.390Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:35:00.391Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:35:00.392Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:40:00.038Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:40:00.040Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:40:00.041Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:40:00.341Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:40:00.343Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:40:00.344Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:40:00.345Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:40:00.347Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:45:00.062Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:45:00.064Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:45:00.065Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:45:00.476Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:45:00.478Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:45:00.480Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:45:00.481Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:45:00.482Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:50:00.038Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:50:00.040Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:50:00.041Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:50:00.349Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:50:00.351Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:50:00.353Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:50:00.354Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:50:00.355Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T20:55:00.046Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T20:55:00.048Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T20:55:00.049Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T20:55:00.344Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T20:55:00.346Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:55:00.347Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T20:55:00.348Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T20:55:00.349Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:00:00.045Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:00:00.047Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:00:00.049Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:00:00.342Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:00:00.343Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:00:00.345Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:00:00.346Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:00:00.347Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:05:00.043Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:05:00.045Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:05:00.046Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:05:00.366Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:05:00.368Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:05:00.369Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:05:00.370Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:05:00.371Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:10:00.061Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:10:00.063Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:10:00.064Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:10:00.355Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:10:00.357Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:10:00.358Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:10:00.359Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:10:00.360Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:15:00.043Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:15:00.044Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:15:00.046Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:15:00.369Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:15:00.371Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:15:00.373Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:15:00.374Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:15:00.375Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:20:00.036Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:20:00.038Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:20:00.039Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:20:00.338Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:20:00.340Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:20:00.341Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:20:00.342Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:20:00.344Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:25:00.062Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:25:00.064Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:25:00.066Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:25:00.389Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:25:00.390Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:25:00.392Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:25:00.393Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:25:00.395Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:30:00.057Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:30:00.058Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:30:00.060Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:30:00.345Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:30:00.347Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:30:00.348Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:30:00.350Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:30:00.351Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:35:00.036Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:35:00.038Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:35:00.040Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:35:00.350Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:35:00.352Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:35:00.354Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:35:00.355Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:35:00.356Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:40:00.034Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:40:00.037Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:40:00.039Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:40:00.326Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:40:00.327Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:40:00.329Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:40:00.330Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:40:00.331Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:45:00.034Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:45:00.036Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:45:00.038Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:45:00.372Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:45:00.374Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:45:00.376Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:45:00.377Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:45:00.379Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:50:00.038Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:50:00.039Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:50:00.041Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:50:00.337Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:50:00.339Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:50:00.340Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:50:00.341Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:50:00.343Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T21:55:00.038Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T21:55:00.039Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T21:55:00.041Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T21:55:00.338Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T21:55:00.340Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:55:00.341Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T21:55:00.342Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T21:55:00.343Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:00:00.067Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:00:00.068Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:00:00.070Z"}
+{"level":"info","message":"Ejecución de respaldo → 2/12/2025, 4:00:00 p.m.","timestamp":"2025-12-02T22:00:00.075Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:00:00.367Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:00:00.370Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:00:00.372Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:00:00.373Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:00:00.374Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:05:00.040Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:05:00.042Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:05:00.044Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:05:00.329Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:05:00.331Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:05:00.332Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:05:00.333Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:05:00.335Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:10:00.043Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:10:00.044Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:10:00.046Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:10:00.369Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:10:00.371Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:10:00.372Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:10:00.373Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:10:00.375Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:15:00.056Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:15:00.057Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:15:00.059Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:15:00.356Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:15:00.358Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:15:00.359Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:15:00.361Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:15:00.362Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:20:00.044Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:20:00.046Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:20:00.047Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:20:00.364Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:20:00.366Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:20:00.367Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:20:00.368Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:20:00.369Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T22:24:45.016Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T22:24:55.136Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:24:55.139Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:24:55.141Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:24:55.143Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:24:55.504Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:24:55.507Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:24:55.509Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:24:55.511Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T22:24:55.513Z"}
+{"level":"info","message":"🔄 [unknown-1764714295515] Iniciando procesamiento de packlist","timestamp":"2025-12-02T22:24:55.515Z"}
+{"level":"warn","message":"⚠️ [unknown-1764714295515] Packlist sin items en la lista","timestamp":"2025-12-02T22:24:55.573Z"}
+{"level":"info","message":"📄 [unknown-1764714295515] Generando documento PDF...","timestamp":"2025-12-02T22:24:55.575Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764714295515-1764714296060.pdf","timestamp":"2025-12-02T22:24:56.062Z"}
+{"level":"info","message":"🖨️ [unknown-1764714295515] Enviando a impresión...","timestamp":"2025-12-02T22:24:56.065Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764714295515)…","timestamp":"2025-12-02T22:24:56.067Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T22:24:58.919Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7298ms","timestamp":"2025-12-02T22:25:03.367Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764714303369","timestamp":"2025-12-02T22:25:03.369Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764714295515 como impreso en BD...","timestamp":"2025-12-02T22:25:03.371Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764714295515 como impreso:","timestamp":"2025-12-02T22:25:03.379Z"}
+{"level":"info","message":"🎉 [unknown-1764714295515] Procesado exitosamente","timestamp":"2025-12-02T22:25:03.382Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T22:25:03.383Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T22:25:03.385Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T22:25:03.386Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:30:00.047Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:30:00.049Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:30:00.050Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:30:00.342Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:30:00.344Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:30:00.346Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:30:00.347Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:30:00.348Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:35:00.033Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:35:00.035Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:35:00.037Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:35:00.325Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:35:00.327Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:35:00.328Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:35:00.330Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:35:00.331Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T22:35:44.673Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T22:35:54.805Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:35:54.809Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:35:54.812Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:35:54.814Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:35:55.156Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:35:55.158Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:35:55.160Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:35:55.162Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T22:35:55.164Z"}
+{"level":"info","message":"🔄 [unknown-1764714955166] Iniciando procesamiento de packlist","timestamp":"2025-12-02T22:35:55.166Z"}
+{"level":"warn","message":"⚠️ [unknown-1764714955166] Packlist sin items en la lista","timestamp":"2025-12-02T22:35:55.225Z"}
+{"level":"info","message":"📄 [unknown-1764714955166] Generando documento PDF...","timestamp":"2025-12-02T22:35:55.227Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764714955166-1764714955428.pdf","timestamp":"2025-12-02T22:35:55.439Z"}
+{"level":"info","message":"🖨️ [unknown-1764714955166] Enviando a impresión...","timestamp":"2025-12-02T22:35:55.441Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764714955166)…","timestamp":"2025-12-02T22:35:55.442Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T22:35:57.658Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6334ms","timestamp":"2025-12-02T22:36:01.778Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764714961781","timestamp":"2025-12-02T22:36:01.781Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764714955166 como impreso en BD...","timestamp":"2025-12-02T22:36:01.783Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764714955166 como impreso:","timestamp":"2025-12-02T22:36:01.839Z"}
+{"level":"info","message":"🎉 [unknown-1764714955166] Procesado exitosamente","timestamp":"2025-12-02T22:36:01.841Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T22:36:01.843Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T22:36:01.844Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T22:36:01.846Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:40:00.047Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:40:00.049Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:40:00.051Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:40:00.400Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:40:00.402Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:40:00.404Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:40:00.405Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:40:00.406Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:45:00.037Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:45:00.039Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:45:00.040Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:45:00.349Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:45:00.351Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:45:00.352Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:45:00.353Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:45:00.354Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:50:00.040Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:50:00.042Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:50:00.043Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:50:00.332Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:50:00.333Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:50:00.335Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:50:00.336Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:50:00.337Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T22:52:58.668Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T22:53:08.811Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:53:08.815Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:53:08.817Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:53:08.820Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:53:09.155Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:53:09.157Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:53:09.160Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T22:53:09.162Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T22:53:09.163Z"}
+{"level":"info","message":" [unknown-1764715989165] Iniciando procesamiento de packlist","timestamp":"2025-12-02T22:53:09.165Z"}
+{"level":"warn","message":"⚠️ [unknown-1764715989165] Packlist sin items en la lista","timestamp":"2025-12-02T22:53:09.218Z"}
+{"level":"info","message":" [unknown-1764715989165] Generando documento PDF...","timestamp":"2025-12-02T22:53:09.219Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764715989165-1764715989490.pdf","timestamp":"2025-12-02T22:53:09.491Z"}
+{"level":"info","message":" [unknown-1764715989165] Enviando a impresión...","timestamp":"2025-12-02T22:53:09.494Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764715989165)…","timestamp":"2025-12-02T22:53:09.495Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T22:53:11.574Z"}
+{"level":"info","message":"✅ Impreso correctamente en 5780ms","timestamp":"2025-12-02T22:53:15.278Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764715995281","timestamp":"2025-12-02T22:53:15.281Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764715989165 como impreso en BD...","timestamp":"2025-12-02T22:53:15.283Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764715989165 como impreso:","timestamp":"2025-12-02T22:53:15.339Z"}
+{"level":"info","message":" [unknown-1764715989165] Procesado exitosamente","timestamp":"2025-12-02T22:53:15.341Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T22:53:15.343Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T22:53:15.344Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T22:53:15.346Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:55:00.075Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:55:00.079Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:55:00.080Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:55:00.358Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:55:00.359Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:55:00.361Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T22:55:00.362Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T22:55:00.363Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T22:58:27.798Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T22:58:37.943Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T22:58:37.947Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T22:58:37.950Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T22:58:37.952Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T22:58:38.290Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T22:58:38.293Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T22:58:38.295Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T22:58:38.297Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T22:58:38.299Z"}
+{"level":"info","message":" [unknown-1764716318301] Iniciando procesamiento de packlist","timestamp":"2025-12-02T22:58:38.301Z"}
+{"level":"warn","message":"⚠️ [unknown-1764716318301] Packlist sin items en la lista","timestamp":"2025-12-02T22:58:38.368Z"}
+{"level":"info","message":" [unknown-1764716318301] Generando documento PDF...","timestamp":"2025-12-02T22:58:38.370Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764716318301-1764716318664.pdf","timestamp":"2025-12-02T22:58:38.667Z"}
+{"level":"info","message":" [unknown-1764716318301] Enviando a impresión...","timestamp":"2025-12-02T22:58:38.669Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764716318301)…","timestamp":"2025-12-02T22:58:38.671Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T22:58:41.717Z"}
+{"level":"info","message":"✅ Impreso correctamente en 7405ms","timestamp":"2025-12-02T22:58:46.080Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764716326083","timestamp":"2025-12-02T22:58:46.083Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764716318301 como impreso en BD...","timestamp":"2025-12-02T22:58:46.085Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764716318301 como impreso:","timestamp":"2025-12-02T22:58:46.093Z"}
+{"level":"info","message":" [unknown-1764716318301] Procesado exitosamente","timestamp":"2025-12-02T22:58:46.095Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T22:58:46.097Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T22:58:46.098Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T22:58:46.100Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:00:00.060Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:00:00.064Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:00:00.066Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:00:00.369Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:00:00.371Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:00:00.373Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:00:00.374Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T23:00:00.375Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T23:01:28.898Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T23:01:39.040Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:01:39.044Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:01:39.047Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:01:39.049Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:01:39.406Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:01:39.409Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:01:39.411Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:01:39.413Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T23:01:39.414Z"}
+{"level":"info","message":" [unknown-1764716499416] Iniciando procesamiento de packlist","timestamp":"2025-12-02T23:01:39.416Z"}
+{"level":"warn","message":"⚠️ [unknown-1764716499416] Packlist sin items en la lista","timestamp":"2025-12-02T23:01:39.474Z"}
+{"level":"info","message":" [unknown-1764716499416] Generando documento PDF...","timestamp":"2025-12-02T23:01:39.475Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764716499416-1764716499760.pdf","timestamp":"2025-12-02T23:01:39.762Z"}
+{"level":"info","message":" [unknown-1764716499416] Enviando a impresión...","timestamp":"2025-12-02T23:01:39.764Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 (unknown-1764716499416)…","timestamp":"2025-12-02T23:01:39.766Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T23:01:41.776Z"}
+{"level":"info","message":"✅ Impreso correctamente en 5837ms","timestamp":"2025-12-02T23:01:45.606Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764716505608","timestamp":"2025-12-02T23:01:45.608Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764716499416 como impreso en BD...","timestamp":"2025-12-02T23:01:45.611Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764716499416 como impreso:","timestamp":"2025-12-02T23:01:45.661Z"}
+{"level":"info","message":" [unknown-1764716499416] Procesado exitosamente","timestamp":"2025-12-02T23:01:45.664Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T23:01:45.665Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T23:01:45.667Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T23:01:45.669Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:05:00.058Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:05:00.060Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:05:00.061Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:05:00.342Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:05:00.344Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:05:00.346Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:05:00.347Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T23:05:00.348Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:10:00.032Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:10:00.034Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:10:00.036Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:10:00.335Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:10:00.337Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:10:00.338Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:10:00.339Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T23:10:00.341Z"}
+{"level":"error","message":"Comando falló: wmic printer where \"Name like '%Microsoft Print to PDF%'\" get Name,PortName /value","timestamp":"2025-12-02T23:14:07.630Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T23:14:07.645Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T23:14:17.790Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:14:17.795Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:14:17.798Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:14:17.800Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:14:18.135Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:14:18.138Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:14:18.140Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:14:18.142Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T23:14:18.144Z"}
+{"level":"info","message":" [unknown-1764717258146] Iniciando procesamiento de packlist","timestamp":"2025-12-02T23:14:18.146Z"}
+{"level":"warn","message":"⚠️ [unknown-1764717258146] Packlist sin items en la lista","timestamp":"2025-12-02T23:14:18.204Z"}
+{"level":"info","message":" [unknown-1764717258146] Generando documento PDF...","timestamp":"2025-12-02T23:14:18.206Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764717258146-1764717258506.pdf","timestamp":"2025-12-02T23:14:18.508Z"}
+{"level":"info","message":" [unknown-1764717258146] Enviando a impresión...","timestamp":"2025-12-02T23:14:18.510Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 ","timestamp":"2025-12-02T23:14:18.512Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T23:14:20.779Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6438ms","timestamp":"2025-12-02T23:14:24.952Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764717264953","timestamp":"2025-12-02T23:14:24.953Z"}
+{"level":"info","message":"🖨️ Marcando packlist unknown-1764717258146 como impreso en BD...","timestamp":"2025-12-02T23:14:24.954Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764717258146 como impreso:","timestamp":"2025-12-02T23:14:24.988Z"}
+{"level":"info","message":" [unknown-1764717258146] Procesado exitosamente","timestamp":"2025-12-02T23:14:24.990Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T23:14:24.991Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T23:14:24.991Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T23:14:24.992Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:15:00.066Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:15:00.066Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:15:00.067Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:15:00.376Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:15:00.377Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:15:00.378Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:15:00.378Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T23:15:00.379Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:20:00.044Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:20:00.046Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:20:00.048Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:20:00.363Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:20:00.365Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:20:00.366Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:20:00.368Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T23:20:00.369Z"}
+{"level":"info","message":"🚀 Scheduler inteligente iniciado — verificaciones cada 5 minutos","timestamp":"2025-12-02T23:22:11.738Z"}
+{"level":"info","message":"Ejecución inicial en 10 segundos...","timestamp":"2025-12-02T23:22:21.883Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:22:21.887Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:22:21.889Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:22:21.892Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:22:22.215Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:22:22.218Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:22:22.220Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:22:22.222Z"}
+{"level":"info","message":"[1/1] Procesando packlist null","timestamp":"2025-12-02T23:22:22.224Z"}
+{"level":"info","message":" [unknown-1764717742226] Iniciando procesamiento de packlist","timestamp":"2025-12-02T23:22:22.226Z"}
+{"level":"warn","message":"⚠️ [unknown-1764717742226] Packlist sin items en la lista","timestamp":"2025-12-02T23:22:22.284Z"}
+{"level":"info","message":" [unknown-1764717742226] Generando documento PDF...","timestamp":"2025-12-02T23:22:22.286Z"}
+{"level":"info","message":"PDF temporal guardado → PACKLIST-1210405462-unknown-1764717742226-1764717742550.pdf","timestamp":"2025-12-02T23:22:22.552Z"}
+{"level":"info","message":" [unknown-1764717742226] Enviando a impresión...","timestamp":"2025-12-02T23:22:22.554Z"}
+{"level":"info","message":"Se esta Enviando la impresión 1210405462 ","timestamp":"2025-12-02T23:22:22.556Z"}
+{"level":"info","message":"🖨️ Enviando impresión a B4005029","timestamp":"2025-12-02T23:22:25.330Z"}
+{"level":"info","message":"✅ Impreso correctamente en 6279ms","timestamp":"2025-12-02T23:22:28.837Z"}
+{"level":"info","message":"Impresión Correcta: job job-1764717748840","timestamp":"2025-12-02T23:22:28.840Z"}
+{"level":"info","message":" Marcando packlist unknown-1764717742226 como impreso en BD...","timestamp":"2025-12-02T23:22:28.842Z"}
+{"level":"error","message":"❌ Error marcando packlist unknown-1764717742226 como impreso:","timestamp":"2025-12-02T23:22:28.892Z"}
+{"level":"info","message":" [unknown-1764717742226] Procesado exitosamente","timestamp":"2025-12-02T23:22:28.895Z"}
+{"level":"info","message":" El Packlist null procesado exitosamente","timestamp":"2025-12-02T23:22:28.896Z"}
+{"level":"info","message":" Procesamiento completado: 1 de 1 packlists","timestamp":"2025-12-02T23:22:28.900Z"}
+{"level":"info","message":" Procesamiento exitoso - próxima verificación en 5 minutos","timestamp":"2025-12-02T23:22:28.901Z"}
+{"level":"info","message":"Consultando Procesamiento de SQL para los packlists pendientes...","timestamp":"2025-12-02T23:25:00.067Z"}
+{"level":"info","message":"Obteniendo Todos los packlists pendientes que procesar...","timestamp":"2025-12-02T23:25:00.069Z"}
+{"level":"info","message":"Volviendo a llamar al procedimiento almacenado...","timestamp":"2025-12-02T23:25:00.071Z"}
+{"level":"info","message":"Método alternativo ejecutado correctamente","timestamp":"2025-12-02T23:25:00.395Z"}
+{"level":"info","message":" Método alternativo: 1 packlists encontrados","timestamp":"2025-12-02T23:25:00.396Z"}
+{"level":"info","message":"📦 1 packlists encontrados: ","timestamp":"2025-12-02T23:25:00.397Z"}
+{"level":"info","message":" 1 packlists encontrados: ","timestamp":"2025-12-02T23:25:00.398Z"}
+{"level":"info","message":" Procesamiento completado: 0 de 1 packlists","timestamp":"2025-12-02T23:25:00.399Z"}

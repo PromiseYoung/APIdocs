@@ -1,0 +1,26 @@
+{
+  "packlistId": 1185294,
+  "error": "Impresora no disponible: B4005029",
+  "stack": "Error: Impresora no disponible: B4005029\n    at PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:634:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:312:8)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:26)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "4/3/2026, 5:16:05 p.m.",
+  "data": {
+    "packlistId": 1185294,
+    "Json": "{\"IdGpoPedidos\":1185294,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"NBD\",\"InternalCode\":\"EBQ000009824\",\"ShipmentNumber\":\"1185294\",\"Customer\":\"CA GBM Costa Rica\",\"ETA\":\"2026-03-04\",\"priorityName\":\"JD-Normal\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"en Paseo ... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [
+      1184944,
+      1184945,
+      1184948,
+      1184946,
+      1184947,
+      1184949,
+      1184950,
+      1184951,
+      1184952,
+      1184953
+    ],
+    "retryCount": 0,
+    "lastProcessed": "2026-03-04T23:15:15.357Z"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "packlistId": 1181756,
+  "error": "Impresora no disponible: B4005029",
+  "stack": "Error: Impresora no disponible: B4005029\n    at PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:634:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:312:8)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:26)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "10/2/2026, 10:46:05 a.m.",
+  "data": {
+    "packlistId": 1181756,
+    "Json": "{\"IdGpoPedidos\":1181756,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"DEFERRED\",\"ShipmentNumber\":\"EBQ000007265\",\"Customer\":\"TSL Barbados\",\"ETA\":\"2026-02-10\",\"priorityName\":\"JD-Normal\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"Hinds Transport Complex, Christ Ch... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [
+      1181702,
+      1181706,
+      1181703,
+      1181704,
+      1181705,
+      1181707,
+      1181709,
+      1181708,
+      1181737,
+      1181738
+    ],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-10T16:40:07.635Z"
+  }
+}

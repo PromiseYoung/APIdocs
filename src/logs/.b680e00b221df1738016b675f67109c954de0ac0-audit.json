@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Hugo Jaramillo\\Music\\REVISION PACKLIST\\Apidoc\\src\\logs\\.b680e00b221df1738016b675f67109c954de0ac0-audit.json",
+    "files": [
+        {
+            "date": 1773330251744,
+            "name": "C:\\Users\\Hugo Jaramillo\\Music\\REVISION PACKLIST\\Apidoc\\src\\logs\\packlists-2026-03-12.log",
+            "hash": "84af5c3e87d7a96bd383fe1a495037db0020d0725479da38fb0f97d23d46c31c"
+        }
+    ],
+    "hashType": "sha256"
+}

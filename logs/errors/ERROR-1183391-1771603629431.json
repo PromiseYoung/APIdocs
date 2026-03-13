@@ -1,0 +1,15 @@
+{
+  "packlistId": 1183391,
+  "error": "Impresora no disponible: B4005029",
+  "stack": "Error: Impresora no disponible: B4005029\n    at PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:634:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:312:8)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:26)",
+  "timestamp": "20/2/2026, 10:07:09 a.m.",
+  "data": {
+    "packlistId": 1183391,
+    "Json": "{\"IdGpoPedidos\":1183391,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"NBD\",\"ShipmentNumber\":\"EBQ000008433\",\"Customer\":\"CA GBM Costa Rica\",\"ETA\":\"2026-02-20\",\"priorityName\":\"JD-Premier\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"en Paseo Colon Parque Emp Desarro... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-20T16:06:48.699Z"
+  }
+}

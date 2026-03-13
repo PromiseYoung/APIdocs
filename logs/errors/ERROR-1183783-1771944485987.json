@@ -1,0 +1,26 @@
+{
+  "packlistId": 1183783,
+  "error": "Impresora no disponible: B4005029",
+  "stack": "Error: Impresora no disponible: B4005029\n    at PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:634:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:312:8)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:26)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "24/2/2026, 8:48:05 a.m.",
+  "data": {
+    "packlistId": 1183783,
+    "Json": "{\"IdGpoPedidos\":1183783,\"CarrierServices\":\"LOAD\",\"ServiceLevel\":\"NBD\",\"ShipmentNumber\":\"EBQ000008731\",\"Customer\":\"SIC COMERCIALIZACION Y SERVICIOS SA: DE CV\",\"ETA\":\"2026-02-24\",\"priorityName\":\"JD-Normal\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"126 Aven... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [
+      1183591,
+      1183592,
+      1183593,
+      1183594,
+      1183595,
+      1183596,
+      1183598,
+      1183599,
+      1183600,
+      1183601
+    ],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-24T00:52:06.278Z"
+  }
+}

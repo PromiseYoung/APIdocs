@@ -1,0 +1,15 @@
+{
+  "packlistId": 615992,
+  "error": "includesContainers is not defined",
+  "stack": "ReferenceError: includesContainers is not defined\n    at C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\pdfService.js:113:16\n    at new Promise (<anonymous>)\n    at PDFService.generatePackList (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\pdfService.js:63:12)\n    at PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:301:39)\n    at PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:37)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "11/2/2026, 6:18:01 p.m.",
+  "data": {
+    "packlistId": 615992,
+    "Json": "{\"IdGpoPedidos\":615992,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"NBD\",\"ShipmentNumber\":\"EBQ000002305\",\"Customer\":\"SIGA Ciudad de Mexico\",\"ETA\":\"2026-02-11\",\"priorityName\":\"JD-Premier\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"Av. Alvaro Obregon 188 Col Rom... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-12T00:15:52.870Z"
+  }
+}

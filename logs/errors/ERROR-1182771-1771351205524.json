@@ -1,0 +1,26 @@
+{
+  "packlistId": 1182771,
+  "error": "Impresora no disponible: B4005029",
+  "stack": "Error: Impresora no disponible: B4005029\n    at PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:634:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:312:8)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:26)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "17/2/2026, 12:00:05 p.m.",
+  "data": {
+    "packlistId": 1182771,
+    "Json": "{\"IdGpoPedidos\":1182771,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"NBD\",\"ShipmentNumber\":\"EBQ000008000\",\"Customer\":\"SIGA Mexicali Lidia Villalobos Andr:es Belloso\",\"ETA\":\"2026-02-17\",\"priorityName\":\"JD-Premier\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"Cd V... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [
+      1182519,
+      1182520,
+      1182521,
+      1182522,
+      1182523,
+      1182524,
+      1182525,
+      1182526,
+      1182527,
+      1182528
+    ],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-17T17:56:06.304Z"
+  }
+}

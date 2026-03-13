@@ -1,0 +1,15 @@
+{
+  "packlistId": 615913,
+  "error": "includesContainers is not defined",
+  "stack": "ReferenceError: includesContainers is not defined\n    at C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\pdfService.js:113:16\n    at new Promise (<anonymous>)\n    at PDFService.generatePackList (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\pdfService.js:63:12)\n    at PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:301:39)\n    at PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:37)",
+  "timestamp": "10/2/2026, 1:04:23 p.m.",
+  "data": {
+    "packlistId": 615913,
+    "Json": "{\"IdGpoPedidos\":615913,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"NBD\",\"ShipmentNumber\":\"EBQ000002305\",\"Customer\":\"SIGA Ciudad de Mexico\",\"ETA\":\"2026-02-10\",\"priorityName\":\"JD-Normal\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"Av. Alvaro Obregon 188 Col Roma... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-10T19:04:12.010Z"
+  }
+}

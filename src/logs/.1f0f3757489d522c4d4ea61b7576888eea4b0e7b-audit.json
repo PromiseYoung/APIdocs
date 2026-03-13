@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\.1f0f3757489d522c4d4ea61b7576888eea4b0e7b-audit.json",
+    "files": [
+        {
+            "date": 1772690400046,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-05.log",
+            "hash": "6a4a1f866207b278b3454253a42a475adda38593515326cb74c58f18e30b9afa"
+        },
+        {
+            "date": 1772776800045,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-06.log",
+            "hash": "0a541537d6a505ec5f3a61bce6b8cd4398f73e6b6b8b3de6806974469b3f3033"
+        },
+        {
+            "date": 1772863200048,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-07.log",
+            "hash": "6c363d2b468f5631e8c96d2abd08d3952a4b4c8879f05568dd524675181bae59"
+        },
+        {
+            "date": 1772949600043,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-08.log",
+            "hash": "2c31ea4dd12254819f78343e0a52c944046b43eae5d49beb163670841b577597"
+        },
+        {
+            "date": 1773036000042,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-09.log",
+            "hash": "acebc0f26ebc5623686bf53407b5d8015c97b0ad430f85dd60e69f5c9015c621"
+        },
+        {
+            "date": 1773122400049,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-10.log",
+            "hash": "612d4b0c77c86b3811dd5777a4055f278627cdcc715ade3a78dd1b5427374357"
+        },
+        {
+            "date": 1773208800050,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-11.log",
+            "hash": "323f8908b31759f7d62f1b447ca0b65fc0b444e1a711134d3209965b1bd4262c"
+        },
+        {
+            "date": 1773295200031,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\trace-2026-03-12.log",
+            "hash": "8fc30764050936c754554b0052127a9cfa3dd6bec0782d088e75dc73c11db461"
+        }
+    ],
+    "hashType": "sha256"
+}

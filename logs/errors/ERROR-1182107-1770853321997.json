@@ -1,0 +1,26 @@
+{
+  "packlistId": 1182107,
+  "error": "includesContainers is not defined",
+  "stack": "ReferenceError: includesContainers is not defined\n    at C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\pdfService.js:113:16\n    at new Promise (<anonymous>)\n    at PDFService.generatePackList (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\services\\pdfService.js:63:12)\n    at PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:301:39)\n    at PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:37)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "11/2/2026, 5:42:01 p.m.",
+  "data": {
+    "packlistId": 1182107,
+    "Json": "{\"IdGpoPedidos\":1182107,\"CarrierServices\":\"LOAD\",\"ServiceLevel\":\"NBD\",\"ShipmentNumber\":\"EBQ000007447\",\"Customer\":\"ACIT INTEGRATION TECHNOLOGY\",\"ETA\":\"2026-02-11\",\"priorityName\":\"JD-Normal\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Salvador Gayoso\\\"}\",\"shipTo\":\"{\\\"address\\\":\\\"Circuito Cientificos 22... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [
+      1182056,
+      1182057,
+      1182058,
+      1182059,
+      1182060,
+      1182061,
+      1182062,
+      1182063,
+      1182064,
+      1182065
+    ],
+    "retryCount": 0,
+    "lastProcessed": "2026-02-11T23:38:00.348Z"
+  }
+}

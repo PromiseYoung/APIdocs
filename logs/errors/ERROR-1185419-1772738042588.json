@@ -1,0 +1,26 @@
+{
+  "packlistId": 1185419,
+  "error": "Error imprimiendo: Command failed: C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\pdf-to-printer\\dist\\SumatraPDF-3.4.6-32.exe -print-to B4005029 -silent C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\temp\\generados_temporal\\print_1772738042464.pdf\n",
+  "stack": "Error: Error imprimiendo: Command failed: C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\pdf-to-printer\\dist\\SumatraPDF-3.4.6-32.exe -print-to B4005029 -silent C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\temp\\generados_temporal\\print_1772738042464.pdf\n\n    at PacklistScheduler.sendToPrint (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:634:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async PacklistScheduler.processSinglePacklist (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:312:8)\n    at async PacklistScheduler.processPendingPacklists (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:138:26)\n    at async cron.schedule.timezone (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\jobs\\packlistScheduler.js:47:7)\n    at async Timeout._onTimeout (C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\node_modules\\node-cron\\dist\\cjs\\scheduler\\runner.js:70:44)",
+  "timestamp": "5/3/2026, 1:14:02 p.m.",
+  "data": {
+    "packlistId": 1185419,
+    "Json": "{\"IdGpoPedidos\":1185419,\"CarrierServices\":\"DHL\",\"ServiceLevel\":\"NBD\",\"InternalCode\":\"EBQ000009891\",\"ShipmentNumber\":\"1185419\",\"Customer\":\"SIGA Cd Juarez JUAN GERARDO PEREZ G:UERRA::JUAN GERARDO PEREZ GUERRA\",\"ETA\":\"2026-03-05\",\"priorityName\":\"JD-Normal\",\"shipFrom\":\"{\\\"address\\\":\\\"Poniente 140 Numero 671-A, Col. Industrial Vallejo Azcapotzalco Mexico City, 02300, Mexico\\\",\\\"dayPhone\\\":\\\"+52 (55) 1672-3160 Ext.601\\\",\\\"eveningPhone\\\":\\\"\\\",\\\"mobilePhone\\\":\\\"+52 (55) 6960-6765\\\",\\\"contactName\\\":\\\"Sal... [TRUNCATED]"
+  },
+  "schedulerInfo": {
+    "processedIds": [
+      1184944,
+      1184945,
+      1184948,
+      1184946,
+      1184947,
+      1184949,
+      1184950,
+      1184951,
+      1184952,
+      1184953
+    ],
+    "retryCount": 0,
+    "lastProcessed": "2026-03-05T19:10:19.264Z"
+  }
+}

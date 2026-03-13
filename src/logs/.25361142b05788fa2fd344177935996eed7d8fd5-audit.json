@@ -1,0 +1,160 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\.25361142b05788fa2fd344177935996eed7d8fd5-audit.json",
+    "files": [
+        {
+            "date": 1770789600064,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-11.log",
+            "hash": "27aa519f8e73c4812783edf7a50ca7f90c932fe6ea0102612cd5f73a891f5ef3"
+        },
+        {
+            "date": 1770876000037,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-12.log",
+            "hash": "c69c1f085e39bc468da467f4a1fb86b9d64a59eda91e9b0c6e25c5e05d303391"
+        },
+        {
+            "date": 1770962400042,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-13.log",
+            "hash": "2a85b20eb30d43839eee39798171510b7361b7d58fa3a352e375d1ab8924311e"
+        },
+        {
+            "date": 1771048800084,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-14.log",
+            "hash": "d8ca7d1b917954dfa26e8ac10999b3ee02dcaefb0f65785940b4b65ef40f8cdd"
+        },
+        {
+            "date": 1771135200577,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-15.log",
+            "hash": "703d148400e9076ece7343ffc1a3f6cfd1104a02086387cf31ba46459738e676"
+        },
+        {
+            "date": 1771221601074,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-16.log",
+            "hash": "3c83947a603ff31e7771a5d3b768a0446b446f5f125f4b595b62ddbafbac0a8f"
+        },
+        {
+            "date": 1771308000779,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-17.log",
+            "hash": "0d808219f8f1366d27434498e67deb696f29c51cea77c04c0e2302cbf5fdf255"
+        },
+        {
+            "date": 1771394400429,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-18.log",
+            "hash": "4aadebf129b24145aa4ceee28f95bac3487501576584e8d2cac7a518259d1194"
+        },
+        {
+            "date": 1771480800211,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-19.log",
+            "hash": "c7037687a79139f58f4e1c2908c1d4839aa029f1d4daaad1a63048347a7b6f14"
+        },
+        {
+            "date": 1771568985542,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-20.log",
+            "hash": "80ce5d914fbd5d60895afe788a92fb97c22a25fc6d51a3e4bbd987c78cbad3e0"
+        },
+        {
+            "date": 1771655542147,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-21.log",
+            "hash": "d3ff22248e2d379b9e4eece8b931eb4a7922c0c1ee9891e2fe70c1a4e232df86"
+        },
+        {
+            "date": 1771741919847,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-22.log",
+            "hash": "ff517fe4cb0bf8f71aa433e4deddfd393fd3a7a48df06c40d65aebb880aa7780"
+        },
+        {
+            "date": 1771828235671,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-23.log",
+            "hash": "c356d2bc3f4a8e0e0e03bcd96c38fecc9d91d4019622a9ba7427c54fddf47b44"
+        },
+        {
+            "date": 1771912800288,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-24.log",
+            "hash": "4f73db8b939693deebee04cd8d610c4783a42abbd360d01a004077e5000aee40"
+        },
+        {
+            "date": 1771999201411,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-25.log",
+            "hash": "cbda29a3b371f8a68fc1f8aead99828b07325262b37b21d304a2653cf9fc1ee1"
+        },
+        {
+            "date": 1772085600274,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-26.log",
+            "hash": "dca9d321b264edc2ff7105a35efd9831d382c726551433767ee5879162dddd18"
+        },
+        {
+            "date": 1772172000316,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-27.log",
+            "hash": "d8e875d6a4cf36d466d19bbf03cb257a766c6849ffbc749e97e5d7de64a9a9f6"
+        },
+        {
+            "date": 1772258400497,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-02-28.log",
+            "hash": "6b5ba57fd3087dec1da50b9350ebf4eee4ae5f9eb569e80758bfde95d40e8be5"
+        },
+        {
+            "date": 1772344800267,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-01.log",
+            "hash": "61c6a7009dac3e7b0659eb3e611a3c9f71383b997e63663cd032d42f9955ac62"
+        },
+        {
+            "date": 1772431200209,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-02.log",
+            "hash": "0c8c9972a2ecab13b661160e8f8893f150ef30af43823f48cd57e6831d01a52d"
+        },
+        {
+            "date": 1772517600240,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-03.log",
+            "hash": "53a6aaba99664e2999cce60acbc5636625794ed50b9a77c3574b62ee09b22327"
+        },
+        {
+            "date": 1772604000190,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-04.log",
+            "hash": "0a5be5563fd333e50d9d107166e0cec9d8053d334b22472939467c3d10071eb9"
+        },
+        {
+            "date": 1772690400171,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-05.log",
+            "hash": "660c441135f163be6cba65b59d7cc1de6244bf57ae810ca1a7b0d8f0d08d7c72"
+        },
+        {
+            "date": 1772776800122,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-06.log",
+            "hash": "3558f5579e90ecf2a05fa9f4dd238df41e0e0ef9eaee0a14de0b888eb4b2a7e4"
+        },
+        {
+            "date": 1772863200091,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-07.log",
+            "hash": "33334bae921f03afac50ea5512ec9b78f644aace78152ad7eb47b0d033a9d931"
+        },
+        {
+            "date": 1772949600092,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-08.log",
+            "hash": "57e0aef10cb83a92e2affa318542dd82cfa4e5d7060b71c076611a6a0130c00e"
+        },
+        {
+            "date": 1773036000087,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-09.log",
+            "hash": "aa95cd5742de27707082b2ccb558fe2f71c38e498d2c946911fbde7c032df936"
+        },
+        {
+            "date": 1773122400075,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-10.log",
+            "hash": "0abc25a75446509a8b29f70027aec15189fbb4fb0613dffcfa4de07471efe22d"
+        },
+        {
+            "date": 1773208800091,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-11.log",
+            "hash": "8f718ce0d1ad3400c1800d57bac1f1147059599444bbbd64d08d13e293ea829f"
+        },
+        {
+            "date": 1773295200063,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\packlists-2026-03-12.log",
+            "hash": "4cdb5cda5482135c5ba62aa2f2957b2cb28e3e0ee7cc6501b2e2c9cab82649ee"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,160 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\.1cf944f1eaf2a85644732f27ef6425c0ee669f5d-audit.json",
+    "files": [
+        {
+            "date": 1770789600069,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-11.log",
+            "hash": "bd574549d5e540dc962b1c593ad6bde9e89924dcdb59330ec64a24b0688e4e04"
+        },
+        {
+            "date": 1770876000041,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-12.log",
+            "hash": "b17fcbe8b7419e1718aa058ec4a5f57b0e35662138b3c0dd123924a9dba21604"
+        },
+        {
+            "date": 1770962400046,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-13.log",
+            "hash": "aa9e96e4324c1f7c7e72bc8a1befce3e9ce81f57050f6a116100db501a5e8635"
+        },
+        {
+            "date": 1771048800092,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-14.log",
+            "hash": "47abac56556ae7b89ca3424fa10c1d2a1d077cde5be2a009b62ac1b1c14a0cf5"
+        },
+        {
+            "date": 1771135200593,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-15.log",
+            "hash": "2aa401a4b62fb54525876db89b1fa7b77155d323e373f01ff10b675601547b78"
+        },
+        {
+            "date": 1771221601081,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-16.log",
+            "hash": "ccfa6ecbe06f9702ead4fe7215fe05b1577435ecf8dab86e59498894530102d6"
+        },
+        {
+            "date": 1771308000793,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-17.log",
+            "hash": "c597ab2fd07ece144418faf2e50262aed19fa827dc03c07c4609a004fe84dd89"
+        },
+        {
+            "date": 1771394400446,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-18.log",
+            "hash": "0770c02059f30b631f0ded75c46a33e5f82a6b55ac287d4550a00153b73e97a4"
+        },
+        {
+            "date": 1771480800226,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-19.log",
+            "hash": "5ca2255ded39302259c282edaf377ea15874ebc4a24ad4418310c13673352468"
+        },
+        {
+            "date": 1771568994931,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-20.log",
+            "hash": "af7e668e6fd18ec7a8e30d05a703bf28b6f9141ea23dffb3697e5e5d4999c334"
+        },
+        {
+            "date": 1771655542378,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-21.log",
+            "hash": "0ee16860a10efa9790e12b761f7c74190bad1a64a11535bfa8673dba698b0ff5"
+        },
+        {
+            "date": 1771741920233,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-22.log",
+            "hash": "63224b11ce4d6b23e6be313b124e97e08657b52659959e701722edbef8a2a6ce"
+        },
+        {
+            "date": 1771828252755,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-23.log",
+            "hash": "d9cc21e7c98bdb45909216a7850247116f3bfaf6288432febdc47bbd0843801e"
+        },
+        {
+            "date": 1771912800307,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-24.log",
+            "hash": "1aa673aa70c2502cb90191cf3ba01e933a7cc32b4a749397ff6c01e8867a7a69"
+        },
+        {
+            "date": 1771999201726,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-25.log",
+            "hash": "96c373e988fdfdee91f1b3c6c0d85e77663647fe29153ef63adbdb44029e0f46"
+        },
+        {
+            "date": 1772085600305,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-26.log",
+            "hash": "c167593d94e45fbbaccba186b218f1b624e3e24f6ffea077851fd2bad37074d7"
+        },
+        {
+            "date": 1772172000439,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-27.log",
+            "hash": "c45db9e634f955b6bcc08b60d090661f932276f6663a201752b1fdf67e3c7cea"
+        },
+        {
+            "date": 1772258400524,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-02-28.log",
+            "hash": "1c13c894d93c216ed0e01c72014de8dfd0d7ddfbff5512d2cc782d75ed76b83b"
+        },
+        {
+            "date": 1772344800282,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-01.log",
+            "hash": "6dad1e6fab8e25c90c5cbfd1aab922fb2ea9144cf79e341a1f3ead34742978da"
+        },
+        {
+            "date": 1772431200233,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-02.log",
+            "hash": "f369a71f0248fc3b189f024b8bc2bd87d83d877f2e201d6a2fc9927f7f4a7f59"
+        },
+        {
+            "date": 1772517600265,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-03.log",
+            "hash": "5e17aaf321179717f25fb8cc39adb1daf776dd0f9b480cc090d44e16922ac35b"
+        },
+        {
+            "date": 1772604000240,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-04.log",
+            "hash": "151f9643c5b32b57d9cb31e35a8e67f4205a1765b9728792c04c6012fc5479ff"
+        },
+        {
+            "date": 1772690400196,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-05.log",
+            "hash": "8c13736e2c01f1ee8c01716884f65673856d9353effc6d7030938a5c4cffe3d5"
+        },
+        {
+            "date": 1772776800129,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-06.log",
+            "hash": "5f677e8a22117ad4da2ef476edc58a844d36633b3fe2237718bad965418ebe97"
+        },
+        {
+            "date": 1772863200099,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-07.log",
+            "hash": "8a0c2082ab5b76e28ba15e52c780293c238a590b4ad56fd10dd7cd69111c5b79"
+        },
+        {
+            "date": 1772949600100,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-08.log",
+            "hash": "862238b4bd92a458cc9b0ac6277e10c6a7f3afd12d1ee4ebf36fe37f47ebcac9"
+        },
+        {
+            "date": 1773036000096,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-09.log",
+            "hash": "801e3099628b32414cc32b0d06985cf06b272f5030264dcd87f82a9d3aac47a6"
+        },
+        {
+            "date": 1773122400082,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-10.log",
+            "hash": "d65c9c3a06dd80a692e4cf0460bf7045543acf687dc19bacbfa64dc2f932b2ce"
+        },
+        {
+            "date": 1773208800099,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-11.log",
+            "hash": "705fa1965e42a00b501e27b3788ae70600f02e854bbebe54ea6a40823c962961"
+        },
+        {
+            "date": 1773295200090,
+            "name": "C:\\Users\\Administrador.LOAD\\Desktop\\apidoc\\Apidoc\\src\\logs\\sql-2026-03-12.log",
+            "hash": "565d36aeca9319b3f1f56997fe45729634799fa9d5af70b0dc0dfb3d1f2b5873"
+        }
+    ],
+    "hashType": "sha256"
+}
