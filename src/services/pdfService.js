@@ -97,22 +97,22 @@ class PDFService {
 
         //AGREGA LOS CONTENEDORES
         if (
-         includeContainers && data.containersData &&
-         Array.isArray(data.containersData.items) && 
-        data.containersData.items.length > 0 && 
-        data.containersData.items.some(item => 
-          (item.container && item.container.trim() !== "") ||
-          (item.deliveryNumber && item.deliveryNumber.trim() !== "") ||
-          (item.weight && !isNaN(item.weight) && Number(item.weight) > 0) ||
-          (item.cost && !isNaN(item.cost) && Number(item.cost) > 0)
+          includeContainers && data.containersData &&
+          Array.isArray(data.containersData.items) &&
+          data.containersData.items.length > 0 &&
+          data.containersData.items.some(item =>
+            (item.container && item.container.trim() !== "") ||
+            (item.deliveryNumber && item.deliveryNumber.trim() !== "") ||
+            (item.weight && !isNaN(item.weight) && Number(item.weight) > 0) ||
+            (item.cost && !isNaN(item.cost) && Number(item.cost) > 0)
           )
-          ) {
-          console.log(`\n\n Anexo de contenedores se han agregado (${data.containersData.items.length} items validos)` );
+        ) {
+          console.log(`\n\n Anexo de contenedores se han agregado (${data.containersData.items.length} items validos)`);
           doc.addPage();
           this._buildContainersSection(doc, data.containersData);
-        } else if(includeContainers) {
+        } else if (includeContainers) {
           console.log("\n Contenedores omitidos: la estructura del documento se recibio vacia o sin informacion");
-          }
+        }
 
         // -----------------------------------
         // 2. FOOTERS EN TODAS LAS PÁGINAS
@@ -253,8 +253,8 @@ class PDFService {
       .text(':', rightX + 50, currentY)
       .text(data.shipmentNumber || 'N/A', rightX + 70, currentY);
 
-   const internalCodeX = rightX + 217;
-   doc.text('Internal Code', internalCodeX, currentY)
+    const internalCodeX = rightX + 217;
+    doc.text('Internal Code', internalCodeX, currentY)
       .text(':', internalCodeX + 50, currentY)
       .text(data.InternalCode || 'N/A', internalCodeX + 70, currentY);
 
@@ -365,13 +365,13 @@ class PDFService {
   }
 
 
-  //CONTENIDO DE LA TABLA DE ITEMS 
+  //CONTENIDO DE LA TABLA DE ITEMS
   static _buildItemsTable(doc, data) {
 
     const FOOTER_HEIGHT = 40;
 
     // 📐 Ancho útil real
-    const usableWidth =  doc.page.width - doc.page.margins.left - doc.page.margins.right;
+    const usableWidth = doc.page.width - doc.page.margins.left - doc.page.margins.right;
 
     const startX = doc.page.margins.left;
     let currentY = doc.y;
@@ -438,7 +438,7 @@ class PDFService {
         doc.addPage();
         currentY = drawHeaders(doc.page.margins.top);
 
-       doc.font('Helvetica').fontSize(8);
+        doc.font('Helvetica').fontSize(8);
       }
 
       let x = startX;
@@ -470,10 +470,10 @@ class PDFService {
       doc.font('Helvetica').fontSize(8).fillColor('#000');
 
       rowData.forEach((text, idx) => {
-          doc.text(String(text), x + SPACING.cellPadding, currentY + SPACING.textOffsetY, {
-            width: headers[idx].width - SPACING.cellPadding * 2,
-            align: 'center'
-          });
+        doc.text(String(text), x + SPACING.cellPadding, currentY + SPACING.textOffsetY, {
+          width: headers[idx].width - SPACING.cellPadding * 2,
+          align: 'center'
+        });
 
         x += headers[idx].width;
       });
@@ -689,7 +689,7 @@ class PDFService {
     doc.text(`Printed: ${currentUser}`, startX + colWidth, bottomY, { width: colWidth, align: 'left' });
 
     // COLUMNA 2 → Volumen
-    doc.text(`Total Volume: ${volume}`, startX + colWidth * 2,  bottomY, {
+    doc.text(`Total Volume: ${volume}`, startX + colWidth * 2, bottomY, {
       width: colWidth,
       align: 'left'
     });
